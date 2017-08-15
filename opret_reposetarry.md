@@ -1,6 +1,7 @@
 # Sådan opretter du et reposetarry
 
 Det første du gør er at lave en konto på Github.
+[github](https://github.com/)
 
 Når det er gjort skal du hente deskversionen til din computer.
 
@@ -31,3 +32,9 @@ God arbejds lyst! :D
 
 # Hvad gør console.log ? 
 
+Med console.log kan du få consollen til at udskrive en tekst du vælger ved at skrive det i ('') Teksten skal således stå i mellem plingerne.
+
+### kodestumpen ville se således ud.
+
+```javascript
+console.log('hej verden')
